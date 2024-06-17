@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "citresewn",
-  "version": "${mod_version}",
+  "version": "1.0.0",
   "name": "CIT Resewn",
   "description": "Re-implements MCPatcher's CIT",
   "authors": [
@@ -23,7 +23,7 @@
   "depends": {
     "fabric": "*",
     "fabricloader": "*",
-    "minecraft": "${mod_target_mc}"
+    "minecraft": "1.20.6"
   },
   "recommends": {
     "modmenu": "*",
